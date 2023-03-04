@@ -1,3 +1,5 @@
+### This repo is obsolete, see new [rust version of hastic](https://code.corpglory.net/hastic/hastic)
+
 <p align="center">
   <a href=#hastic-grafana-app>
   <img width="auto" align="middle" height="120px" src="https://github.com/hastic/hastic-grafana-app/blob/master/src/img/hastic_graph.png" />
